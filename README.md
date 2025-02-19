@@ -63,6 +63,6 @@ Le jeu **Reversi** suit ces règles :
    - Vérification du **coup joué** et retournement des pions si nécessaire.  
 4. **Fin du jeu** : Affichage du **score final** et attente du clic pour fermer la fenêtre.  
 
-## Auteur
+## Auteurs
 - **Mohamed Alla**  
 - **Nguyen Sarah**  
