@@ -65,4 +65,4 @@ Le jeu **Reversi** suit ces règles :
 
 ## Auteurs
 - **Mohamed Alla**  
-- **Nguyen Sarah**  
+- **Sarah Nguyen**  
